@@ -6,8 +6,11 @@ This is a React-based login project with a minimalist design and muted colors. T
 
 <p align="center">
   <img src="Screenshot1.png" alt="Login Page">
+  Screen 1: Login page.
   <img src="Screenshot2.png" alt="Login Page">
+  Screen 2: Login page : focus.
   <img src="Screenshot3.png" alt="Login Page">
+  Screen 3: Login page : box.
 </p>
 
 ## Features
@@ -39,6 +42,7 @@ This is a React-based login project with a minimalist design and muted colors. T
 
 `npm start`
 
+---
 
 The application will run at [http://localhost:3000](http://localhost:3000).
 
