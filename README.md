@@ -2,14 +2,6 @@
 
 This is a React-based login project with a minimalist design and muted colors. The goal of this project is to provide an attractive and functional login page for web applications.
 
-## Screenshots
-
-<p align="center">
-  <img src="Screenshot1.png" alt="Login Page">
-  <img src="Screenshot2.png" alt="Login Page">
-  <img src="Screenshot3.png" alt="Login Page">
-</p>
-
 ## Features
 
 - Minimalist design with muted colors.
@@ -50,6 +42,16 @@ If you wish to customize the design or add additional features, you can modify t
 ## Contribution
 
 If you'd like to contribute to this project, I'd be delighted to receive your contributions! Feel free to open an issue or submit a pull request.
+
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="Screenshot1.png" alt="Login Page">
+  <img src="Screenshot2.png" alt="Login Page">
+  <img src="Screenshot3.png" alt="Login Page">
+</p>
 
 ---
 
