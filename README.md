@@ -6,9 +6,9 @@ This is a React-based login project with a minimalist design and muted colors. T
 
 ![Login Page](Screenshot1.png)
 
-[Login Page : focus](Screenshot2.png)
+![Login Page : focus](Screenshot2.png)
 
-[Login Page : login box](Screenshot2.png)
+![Login Page : login box](Screenshot2.png)
 
 ## Features
 
