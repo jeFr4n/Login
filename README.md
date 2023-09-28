@@ -5,14 +5,10 @@ This is a React-based login project with a minimalist design and muted colors. T
 ## Screenshots
 
 <p align="center">
+  <img src="Screenshot1.png" alt="Login Page">
+  <img src="Screenshot2.png" alt="Login Page">
   <img src="Screenshot3.png" alt="Login Page">
 </p>
-
-![Login Page](Screenshot1.png)
-
-![Login Page : focus](Screenshot2.png)
-
-![Login Page : login box](Screenshot3.png)
 
 ## Features
 
